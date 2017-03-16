@@ -3,7 +3,7 @@
 | method | description |
 |--------|--------|
 |  direct      |  用户自行开发代码，在自己的Server 上中转终端广告请求，通过访问 Quadas 的 BidderServer 获取广告 , 详细接口参数见[文档](https://github.com/quadas/docs-ad-call/blob/master/mob.md)    |
-| SDK| 使用 Quadas 的 SDK 包进行广告获取，使用方法参考[SDK4IOS]()；[SDK4Android]()；[SDK4Web]()|
+| SDK| 使用 Quadas 的 SDK 包进行广告获取，使用方法参考[SDK4IOS]()；[SDK4Android]()；[SDK4Web](https://github.com/quadas/sdk4webjs/blob/master/document.md)|
 
 
 ## Adv Settings - “campagin | line | report | data”
